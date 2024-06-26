@@ -1,10 +1,5 @@
-<p align="center"><img width="210" src="https://github.com/Water-Melon/Melon/blob/master/docs/logo.png?raw=true" alt="Melon logo"></p>
-<p align="center"><img src="https://img.shields.io/github/license/Water-Melon/Melang" /></p>
-<h1 align="center">Melon</h1>
 
-
-
-**[中文说明](http://doc.melonc.io/cn/)**
+![image](https://github.com/powerAI-expert/melon-detection/assets/173934668/f8642991-148a-4a64-813f-e895955163e3)
 
 Melon is a generic cross-platform C library. It contains many algorithms, data structures, functional components, scripting languages and practical frameworks, which can facilitate developers to quickly develop applications and avoid the dilemma of repeated wheel building.
 
